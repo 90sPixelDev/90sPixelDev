@@ -5,7 +5,7 @@
 
 🌱 I’m currently working with **React** and **Firebase** mostly and finishing my most recent web app ***[RP Rooms](https://github.com/90sPixelDev/rp-rooms)***, but very soon will switch my focus to **c#** and **.net** development
 
-💞️ I am looking for an entry level Software Development job
+💞️ I am looking for a Software Development position
 
 📫 You can reach me through my email at fontlien@gmail.com
 
