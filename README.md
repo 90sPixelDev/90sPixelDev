@@ -9,4 +9,4 @@
 
 📫 You can reach me through my email at fontlien@gmail.com
 
-## [Portfolio Website => lienfont.dev](https://lienfont.dev)
+## [Portfolio Website => https://lienfont.dev](https://lienfont.dev)
