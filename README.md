@@ -10,3 +10,4 @@
 📫 You can reach me through my email at fontlien@gmail.com
 
 ## [Portfolio Website => https://lienfont.dev](https://lienfont.dev)
+You cane view the live version of my apps through my portfolio website!
