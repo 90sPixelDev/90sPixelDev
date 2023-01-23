@@ -3,9 +3,9 @@
 
 👀 My main hobbies are programming, 3D art, and video games
 
-🌱 I’m currently working with **React** and **Firebase** mostly and finishing my most recent web app ***[RP Rooms](https://github.com/90sPixelDev/rp-rooms)***, but very soon will switch my focus to **c#** and **.net core 6** development with a focus on **MVC**
+🌱 I’m currently working with **React**, **TypeScript**, and **Firebase** mostly and finishing my most recent web app ***[RP Rooms](https://github.com/90sPixelDev/rp-rooms)***, but very soon will switch my focus to **c#** and **.net core 6** development with a focus on **MVC**
 
-💞️ I am looking for a Software Development position
+💞️ I am looking for a Web Development or Software Development position
 
 📫 You can reach me through my email at fontlien@gmail.com
 
