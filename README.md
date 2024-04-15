@@ -3,9 +3,9 @@
 
 👀 My main hobbies are programming, 3D art, and video games
 
-🌱 I’m currently busy with work but like to work on my personal passion projects such as a Sims Family Tree Web App (private ATM) and finishing my most recent web app ***[RP Rooms](https://github.com/90sPixelDev/rp-rooms)*** created with **React**, **Firebase**, and **Tailwind**. When relaxing I like to work on my ~~Unity Multiplayer~~ game as well as my Unreal Engine survival game
+🌱 I’m currently looking for fulltime work and like to work on my personal passion projects such as a Sims Family Tree Web App (private ATM) and finishing my most recent web app ***[RP Rooms](https://github.com/90sPixelDev/rp-rooms)*** created with **React**, **Firebase**, and **Tailwind**. When relaxing I like to work on my ~~Unity Multiplayer~~ game as well as my Unreal Engine survival game
 
-💞️ I am not looking for anything at the moment but ideas for things to create are always welcome!
+💞️ I am currently looking for a fulltime position as a Web Developer or Software Engineer!
 
 📫 You can reach me through my email at fontlien@gmail.com
 
