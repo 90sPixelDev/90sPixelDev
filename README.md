@@ -10,7 +10,6 @@
 📫 You can reach me through my email at fontlien@gmail.com
 
 ## GitHub Stats
-[![90PixelsDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=90sPixelDev&show_icons=true&theme=jolly)](https://github.com/90sPixelDev/github-readme-stats)
 [![90PixelsDev's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=90sPixelDev&show_icons=true&theme=jolly&layout=compact)](https://github.com/90sPixelDev/github-readme-stats)
 
 ## [Portfolio Website => https://lienfont.dev](https://lienfont.dev)
